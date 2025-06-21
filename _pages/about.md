@@ -28,9 +28,9 @@ Before that, I received my bachelor’s degree from Sun-Yat Sen University.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2025</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2025</div>
 
-[Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter](/docs/paper/nsdi25-liukexin.pdf)
+Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter<a href="/docs/paper/nsdi25-liukexin.pdf">paper</a>
 
 **Kexin Liu***, Zhaochen Zhang*, Chang Liu, Yizhi Wang, Vamsi Addanki, Stefan Schmid,
 Qingyue Wang, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu, Ke Meng,

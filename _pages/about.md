@@ -29,7 +29,6 @@ Before that, I received my bachelor’s degree from Sun-Yat Sen University.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2025</div></div></div>
-<div class='paper-box-text' markdown="1">
 
 [Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter](/docs/paper/nsdi25-liukexin.pdf)
 

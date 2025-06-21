@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kexin Liu"
-description              : "P.hD. in CS at NJU -> Huawei"
+description              : ""
 repository               : "kathy-kxliu/kathy-kxliu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kexin Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "AI infra Engineer"
+  bio              : "P.hD. in CS at NJU -> Huawei AI infra Engineer"
   location         : "China"
   employer         :
   pubmed           : 

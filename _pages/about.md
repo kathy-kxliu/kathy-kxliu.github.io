@@ -55,7 +55,7 @@ Congestion Management (e.g., congestion control, flow control, and load balancin
   TON'25 &nbsp;</span>
   *An Anatomy of Token-based Congestion Control*. 📄 [**Paper**](files/paper/ton25-kexin.pdf)
 
-- **Kexin Liu**, Chang Liu, Qingyue Wang, Zhiqiang Li, Lu Lu, Xiaoliang Wang, Fu Xiao, Ying Zhang, Wanchun Dou, Guihai Chen, Chen Tian.
+  - **Kexin Liu**, Chang Liu, Qingyue Wang, Zhiqiang Li, Lu Lu, Xiaoliang Wang, Fu Xiao, Ying Zhang, Wanchun Dou, Guihai Chen, Chen Tian.
 </div>
 
 <div class='paper-box-text' markdown="1">

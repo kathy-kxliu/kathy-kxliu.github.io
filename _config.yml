@@ -127,7 +127,10 @@ defaults:
     values:
       layout: default
       author_profile: true
-
+  - scope:
+      path: "docs/paper"     # 针对 docs/paper 目录下的文件
+    values:
+      permalink: /paper/:title 
 
 # Sass/SCSS
 sass:

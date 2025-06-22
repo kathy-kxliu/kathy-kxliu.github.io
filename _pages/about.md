@@ -28,11 +28,13 @@ Before that, I received my bachelor’s degree from Sun-Yat Sen University.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class="badge">NSDI 2025</div></div>
-<div class='paper-box-text' markdown="1"> Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter <a href="../docs/paper/nsdi25-liukexin.pdf">[paper]</a>
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  NSDI'25 &nbsp;</span>
+  *Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter*. 📄 [**Paper**](docs/paper/nsdi25-liukexin.pdf) 🌐 [**Code**](https://github.com/NASA-NJU/Pyrrha-NS3)
 
-**Kexin Liu***\, Zhaochen Zhang*\, Chang Liu, Yizhi Wang, Vamsi Addanki, Stefan Schmid, Qingyue Wang, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu, Ke Meng, Fei Chen, Weiguang Wang, Bingyang Liu, Wanchun Dou, Guihai Chen, Chen Tian
-
+  - **Kexin Liu**\*, Zhaochen Zhang\*, Chang Liu, Yizhi Wang, Vamsi Addanki, Stefan Schmid, Qingyue Wang, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu, Ke Meng, Fei Chen, Weiguang Wang, Bingyang Liu, Wanchun Dou, Guihai Chen, Chen Tian
+</div>
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

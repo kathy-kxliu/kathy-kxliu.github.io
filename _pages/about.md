@@ -21,9 +21,7 @@ Hi, I am Kexin Liu（刘柯鑫）. I am now a research engineer at Huawei, focus
 
 I received my Ph.D. degree in computer science and engineering from Nanjing University in 2023, supervised by Prof. <a href='https://cs.nju.edu.cn/tianchen/index.htm'>Chen Tian</a>. My research interests include datacenter network systems and congestion management. My work has been published at top-tier conferences and transactions such as NSDI, CoNEXT, TON, and TPDS, etc.
 
-Before that, I received my bachelor’s degree from Sun-Yat Sen University.
-
-My research interests include:
+**My research interests** include:
 
 Building scale-up/scale-out network systems for AI,
 
@@ -39,7 +37,7 @@ Congestion Management (e.g., congestion control, flow control, and load balancin
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   **NSDI'25** &nbsp;</span>
-  *Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter*. 📄 [**Paper**](docs/paper/nsdi25-liukexin.pdf) 🌐 [**Code**](https://github.com/NASA-NJU/Pyrrha-NS3)
+  *Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter*. 📄 [**Paper**](https://kathy-kxliu.github.io/paper/nsdi25-liukexin) 🌐 [**Code**](https://github.com/NASA-NJU/Pyrrha-NS3)
 
   - **Kexin Liu**\*, Zhaochen Zhang\*, Chang Liu, Yizhi Wang, Vamsi Addanki, Stefan Schmid, Qingyue Wang, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu, Ke Meng, Fei Chen, Weiguang Wang, Bingyang Liu, Wanchun Dou, Guihai Chen, Chen Tian
 </div>

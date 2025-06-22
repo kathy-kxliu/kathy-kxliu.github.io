@@ -36,10 +36,18 @@ Congestion Management
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
-  NSDI'25 &nbsp;</span>
+  **NSDI'25** &nbsp;</span>
   *Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter*. 📄 [**Paper**](docs/paper/nsdi25-liukexin.pdf) 🌐 [**Code**](https://github.com/NASA-NJU/Pyrrha-NS3)
 
   - **Kexin Liu**\*, Zhaochen Zhang\*, Chang Liu, Yizhi Wang, Vamsi Addanki, Stefan Schmid, Qingyue Wang, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu, Ke Meng, Fei Chen, Weiguang Wang, Bingyang Liu, Wanchun Dou, Guihai Chen, Chen Tian
+</div>
+
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  **CoNEXT'21** &nbsp;</span>
+  *Floodgate: Taming Incast in Datacenter Networks*. 📄 [**Paper**](docs/paper/conext21-kexin.pdf) 🌐 [**Code**](https://github.com/NASA-NJU/Floodgate-NS3)
+
+  - **Kexin Liu**, Chen Tian, Qingyue Wang, Hao Zheng, Peiwen Yu, Wenhao Sun, Yonghui Xu, Ke Meng, Lei Han, Jie Fu, Wanchun Dou, and Guihai Chen
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -65,15 +73,6 @@ Congestion Management
 
   - **Kexin Liu**, Chen Tian, Qingyue Wang, Yanqing Chen, Bingchuan Tian, Wenhao Sun, Ke Meng, Long Yan, Lei Han, Jie Fu, Wanchun Dou, and Guihai Chen.
 </div>
-
-<div class='paper-box-text' markdown="1">
-- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
-  CoNEXT'21 &nbsp;</span>
-  *Floodgate: Taming Incast in Datacenter Networks*. 📄 [**Paper**](docs/paper/conext21-kexin.pdf) 🌐 [**Code**](https://github.com/NASA-NJU/Floodgate-NS3)
-
-  - **Kexin Liu**, Chen Tian, Qingyue Wang, Hao Zheng, Peiwen Yu, Wenhao Sun, Yonghui Xu, Ke Meng, Lei Han, Jie Fu, Wanchun Dou, and Guihai Chen
-</div>
-
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: green; color: white; font-size: 0.85em;">&nbsp;

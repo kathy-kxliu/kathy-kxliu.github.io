@@ -37,7 +37,7 @@ Congestion Management (e.g., congestion control, flow control, and load balancin
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   **NSDI'25** &nbsp;</span>
-  *Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter*. 📄 [**Paper**](https://kathy-kxliu.github.io/paper/nsdi25-liukexin) 🌐 [**Code**](https://github.com/NASA-NJU/Pyrrha-NS3)
+  *Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter*. 📄 [**Paper**](docs/paper/nsdi25-liukexin.pdf) 🌐 [**Code**](https://github.com/NASA-NJU/Pyrrha-NS3)
 
   - **Kexin Liu**\*, Zhaochen Zhang\*, Chang Liu, Yizhi Wang, Vamsi Addanki, Stefan Schmid, Qingyue Wang, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu, Ke Meng, Fei Chen, Weiguang Wang, Bingyang Liu, Wanchun Dou, Guihai Chen, Chen Tian
 </div>

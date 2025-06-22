@@ -66,6 +66,7 @@ include:
   - files
   - _redirects
 exclude:
+  - docs
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"

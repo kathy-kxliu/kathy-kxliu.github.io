@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-defaults:
-  - scope:
-      path: "/docs/paper"
-    values:
-      permalink: /paper/:title
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -34,8 +28,8 @@ Before that, I received my bachelor’s degree from Sun-Yat Sen University.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class="badge">NSDI 2025
-<div class='paper-box-text' markdown="1"></div></div> Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter <a href="../docs/paper/nsdi25-liukexin.pdf">[paper]</a>
+<div class='paper-box'><div class="badge">NSDI 2025</div></div>
+<div class='paper-box-text' markdown="1"> Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter <a href="../docs/paper/nsdi25-liukexin.pdf">[paper]</a>
 
 **Kexin Liu***\, Zhaochen Zhang*\, Chang Liu, Yizhi Wang, Vamsi Addanki, Stefan Schmid, Qingyue Wang, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu, Ke Meng, Fei Chen, Weiguang Wang, Bingyang Liu, Wanchun Dou, Guihai Chen, Chen Tian
 

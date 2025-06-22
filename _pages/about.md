@@ -26,8 +26,10 @@ Before that, I received my bachelor’s degree from Sun-Yat Sen University.
 My research interests include:
 
 Building scale-up/scale-out network systems for AI,
+
 Datacenter Network architectures and protocols,
-Congestion Management
+
+Congestion Management (e.g., congestion control, flow control, and load balancing).
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Paper: Pyrrha accepted by NSDI 2025. Pyrrha is a flow control that controls transient congestion at a fine granularity without HOL blocking, requiring only a minimal number of queues.

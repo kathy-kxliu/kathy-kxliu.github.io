@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<meta name="google-site-verification" content="kEn9BXW059T-AlCn1ZANJJ67H1HEIUYcQtBbbNichAw" />
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
